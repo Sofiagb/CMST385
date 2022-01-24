@@ -13,4 +13,4 @@ build-and-deploy:
     with:
     app-name: 'CMST385-sgonzales22'
     slot-name: 'production"
-    publish-profile: ${{ secrets.AppServiceCMST385 }}
+    publish-profile: ${{ secrets.APPSERVICESCMST385 }}
